@@ -79,11 +79,3 @@ Few articles made and published by me on medium, I have arranged them by the tec
 [WhatsApp Clone - Jetpack Compose](https://medium.com/geekculture/whatsapp-clone-jetpack-compose-d90120723d88)
 
 [Jetpack Compose - Interview Notes](https://pradyotprksh4.medium.com/jetpack-compose-interview-notes-9e5f853be65d)
-
-# Pinned GitHub Projects
-
-[GitHub - pradyotprksh/development_learning: A repository which will contain all my learning techs as I move forward. Will be learning and adding new projects. Anyone can clone this project and use it for reference.](https://github.com/pradyotprksh/development_learning)
-
-[GitHub - pradyotprksh/ip_address: An ip address fetcher.](https://github.com/pradyotprksh/ip_address)
-
-[GitHub - pradyotprksh/whatsapp_recorder: A Flutter voice recorder UI like WhatsApp](https://github.com/pradyotprksh/whatsapp_recorder)
