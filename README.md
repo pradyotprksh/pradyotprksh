@@ -1,10 +1,10 @@
 # Pradyot Prakash
 
-# About Me
+# 👋 About Me
 
 **Name:** Pradyot Prakash
 
-**From**: India
+**From**: 🇮🇳
 
 A common developer in this emerging tech world. Likes learning new technology.
 
@@ -19,13 +19,13 @@ You can connect with or follow me on
 
 # Tech Stack
 
-- Flutter
+- Flutter 💙
     - Dart
-- Android
+- Android 💚
     - Java
     - Kotlin
     - Jetpack Compose
-- iOS
+- iOS 💜
     - Swift
     - SwiftUI
-- Python
+- Python 🐍
