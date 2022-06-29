@@ -1,25 +1,56 @@
-# Pradyot Prakash
+<h1 align="center"> Hola, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+         alt="Waving hand animated gif"
+         height="45"
+         width="45" /> I'm Pradyot Prakash</h1>
+         
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pradyotprksh&label=Views&color=blue&style=plastic&style=for-the-badge" alt="pradyotprksh" /> </p>
 
 # 👋 About Me
 
-**Name:** Pradyot Prakash
-
-**From**: 🇮🇳
-
 A common developer in this emerging tech world. Likes learning new technology.
 
----
+- 🇮🇳
+- Currently working on Jetpack Compose
+- Have experience in Flutter, Dart and Android
+- Can work on iOS, Android (XML and Jetpack Compose) and Flutter
+- Want to learn Python
 
-| [![image](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://pradyotprksh4.medium.com) | [![image](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCv4Ln66OzOcI4WhMK2Q10nA/featured) | [![image](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/8244668/pradyot1996?tab=profile) | [![image](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pradyotprksh) | [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pradyot-prakash-968910105/) | [![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/pradyotprksh4) | [![image](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/developer?id=Pradyot+Prakash) |
-| --- | --- | --- | --- | --- | --- | --- |
+## 🌐 Socials
 
----
+[![image](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://pradyotprksh4.medium.com) [![image](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCv4Ln66OzOcI4WhMK2Q10nA/featured) [![image](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/8244668/pradyot1996?tab=profile) [![image](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pradyotprksh) [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pradyot-prakash-968910105/) [![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/pradyotprksh4) [![image](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/developer?id=Pradyot+Prakash) [<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />](https://github.com/pradyotprksh/development_learning/tree/main/jetpack_compose)
 
-My GitHub Status
+## 💻 Tech Stack
 
-![image](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pradyotprksh&theme=vue)  | ![image](https://github-readme-stats.vercel.app/api?username=pradyotprksh)
-:-------------------------:|:-------------------------:
-![image](https://activity-graph.herokuapp.com/graph?username=pradyotprksh&theme=minimal)  |  ![image](https://github-readme-stats.vercel.app/api/top-langs/?username=pradyotprksh)
-![image](https://github-readme-streak-stats.herokuapp.com/?user=pradyotprksh)  |  ![image](https://github-profile-trophy.vercel.app/?username=pradyotprksh)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) [<img src="https://img.shields.io/badge/iOS-E34C26?style=for-the-badge&logo=ios&logoColor=white" />](https://github.com/pradyotprksh/development_learning/tree/main/ios)
 
----
+## 📝 Summary Card
+![image](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pradyotprksh&theme=vue)
+
+## 🌟 Stats
+![image](https://github-readme-stats.vercel.app/api?username=pradyotprksh)
+
+## 📈 Activity Graph
+![image](https://activity-graph.herokuapp.com/graph?username=pradyotprksh&theme=minimal)
+
+## 🗣 Most Used Language
+![image](https://github-readme-stats.vercel.app/api/top-langs/?username=pradyotprksh)
+
+## 🎖 Streak
+![image](https://github-readme-streak-stats.herokuapp.com/?user=pradyotprksh)
+
+## 🏆 Thophy
+![image](https://github-profile-trophy.vercel.app/?username=pradyotprksh)
+
+## ✍️Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue)
+
+[![](https://visitcount.itsvg.in/api?id=pradyotprksh&icon=0&color=1)](https://visitcount.itsvg.in)
+
+## 💰You can help me by Donating
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/pradyotprksh)
+
+<div align="center">
+
+### Show some ❤️ by starring some of the repositories!
+
+</div>
