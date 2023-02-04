@@ -36,9 +36,6 @@ A common developer in this emerging tech world. Likes learning new technology.
 ### 🌟 Stats
 ![image](https://github-readme-stats.vercel.app/api?username=pradyotprksh)
 
-### 📈 Activity Graph
-![image](https://activity-graph.herokuapp.com/graph?username=pradyotprksh&theme=minimal)
-
 ### 🗣 Most Used Language
 ![image](https://github-readme-stats.vercel.app/api/top-langs/?username=pradyotprksh)
 
