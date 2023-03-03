@@ -10,10 +10,9 @@
 A common developer in this emerging tech world. Likes learning new technology.
 
 - 🇮🇳
-- Currently working on Jetpack Compose
-- Have experience in Flutter, Dart and Android
-- Can work on iOS, Android (XML and Jetpack Compose) and Flutter
-- Want to learn Python
+- Currently working on Flutter
+- Have experience in Flutter, Dart, Android and Kotlin
+- Can work on Flutter, Android (XML and Jetpack Compose), iOS and Python
 
 ## 🌐 Socials
 
