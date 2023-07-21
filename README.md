@@ -25,7 +25,7 @@ A common developer in this emerging tech world. Likes learning new technology.
 
 ## 💻 Tech Stack
 
-![Android](https://img.shields.io/badge/android-3670A0?style=for-the-badge&logo=android&logoColor=ffdd54)![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) [<img src="https://img.shields.io/badge/iOS-E34C26?style=for-the-badge&logo=ios&logoColor=white" />](https://github.com/pradyotprksh/development_learning/tree/main/ios)
+![Android](https://img.shields.io/badge/android-3670A0?style=for-the-badge&logo=android&logoColor=ffdd54) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) [<img src="https://img.shields.io/badge/iOS-E34C26?style=for-the-badge&logo=ios&logoColor=white" />](https://github.com/pradyotprksh/development_learning/tree/main/ios)
 
 ## 📊 GitHub Stats
 
