@@ -10,9 +10,9 @@
 A common developer in this emerging tech world. Likes learning new technology.
 
 - 🇮🇳
-- Currently working on Flutter
-- Have experience in Flutter, Dart, Android and Kotlin
-- Can work on Flutter, Android (XML and Jetpack Compose), iOS and Python
+- Currently working on Kotlin Multiplatform
+- Have experience in Kotlin Multiplatform, Flutter, Dart, Android and Kotlin
+- Can work on Flutter, Android (XML and Jetpack Compose), iOS, Kotlin Multiplatform and Python
 
 ## 🌐 Socials
 
